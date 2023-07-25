@@ -7,7 +7,9 @@ public class Firstmaventestng {
 @Test
 public void f()
 {
-	System.out.println("Hello");//HERE I LEARNED ABOUT JUNITS IN MAVEN 
-	System.out.println("Hello");
+	String s="hiuh";
+	s.toUpperCase();
+	System.out.println(s);//HERE I LEARNED ABOUT JUNITS IN MAVEN 
+	
 }
 }
