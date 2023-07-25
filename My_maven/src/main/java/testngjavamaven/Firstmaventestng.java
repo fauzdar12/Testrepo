@@ -9,7 +9,7 @@ public void f()
 {
 	String s="hiuh";
 	s.toUpperCase();
-	System.out.println(s);//HERE I LEARNED ABOUT JUNITS IN MAVEN 
+	System.out.println(s);
 	
 }
 }
